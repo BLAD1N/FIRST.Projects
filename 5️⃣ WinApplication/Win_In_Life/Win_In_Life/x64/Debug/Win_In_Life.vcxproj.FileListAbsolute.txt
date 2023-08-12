@@ -1,0 +1,2 @@
+C:\Users\Vlad_\source\repos\Win_In_Life\Win_In_Life\x64\Debug\Win_In_Life.vcxproj.AssemblyReference.cache
+C:\Users\Vlad_\source\repos\Win_In_Life\Win_In_Life\x64\Debug\Win_In_Life.vcxproj.SuggestedBindingRedirects.cache

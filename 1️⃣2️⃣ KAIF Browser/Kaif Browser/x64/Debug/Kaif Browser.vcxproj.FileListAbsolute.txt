@@ -1,0 +1,4 @@
+C:\Users\Vlad_\source\repos\Kaif Browser\Kaif Browser\x64\Debug\Kaif Browser.vcxproj.AssemblyReference.cache
+C:\Users\Vlad_\source\repos\Kaif Browser\Kaif Browser\x64\Debug\Kaif Browser.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad_\source\repos\Kaif Browser\Kaif Browser\x64\Debug\KaifBrowser.MyForm.resources
+C:\Users\Vlad_\source\repos\Kaif Browser\Kaif Browser\x64\Debug\Kaif Browser.vcxproj.GenerateResource.cache
